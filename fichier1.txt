@@ -5,6 +5,6 @@
 
 05/03/2024  17:20    <DIR>          .
 05/03/2024  17:20    <DIR>          ..
-05/03/2024  17:20                 0 fichier1.txt
+05/03/2024  17:20                 12 fichier1.txt
                1 fichier(s)                0 octets
                2 R‚p(s)   8ÿ076ÿ152ÿ832 octets libres
